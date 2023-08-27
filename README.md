@@ -47,8 +47,7 @@ API request example: [wiki/API](https://github.com/Bing-su/adetailer/wiki/API)
 
 ## Media
 
-- 🎥 [どこよりも詳しいAfter Detailer (adetailer)の使い方① 【Stable Diffusion】](https://youtu.be/sF3POwPUWCE)
-- 🎥 [どこよりも詳しいAfter Detailer (adetailer)の使い方② 【Stable Diffusion】](https://youtu.be/urNISRdbIEg)
+- 🎥 [Unleashing the Power of Adetailer: Perfecting Faces and More](https://www.youtube.com/watch?v=ZNcz4k5JCCo&t=531s)
 
 ## Model
 
