@@ -420,6 +420,7 @@ class AfterDetailerScript(scripts.Script):
             override_settings=override_settings,
         )
 
+        i2i._ad_idx = p._ad_idx
         i2i.cached_c = [None, None]
         i2i.cached_uc = [None, None]
         i2i.scripts, i2i.script_args = self.script_filter(p, args)
@@ -427,6 +428,7 @@ class AfterDetailerScript(scripts.Script):
 
         if args.ad_controlnet_model != "None":
             self.update_controlnet_args(i2i, args)
+            print("ADID ", p._ad_idx, ": using controlnet model ", args.ad_controlnet_model)
         else:
             i2i.control_net_enabled = False
 

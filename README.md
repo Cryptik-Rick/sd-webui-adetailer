@@ -1,24 +1,9 @@
 # !After Detailer
 
+This fork of After Detailer is meant to work with [my own version of wildcards](https://github.com/Cryptik-Rick/sd-webui-wildcards-ad). Please follow the install instructions there. However, it will still work without issues if wildcards is not installed.
+
 !After Detailer is a extension for stable diffusion webui, similar to Detection Detailer, except it uses ultralytics instead of the mmdet.
 
-## Install
-
-(from Mikubill/sd-webui-controlnet)
-
-1. Open "Extensions" tab.
-2. Open "Install from URL" tab in the tab.
-3. Enter `https://github.com/Bing-su/adetailer.git` to "URL for extension's git repository".
-4. Press "Install" button.
-5. Wait 5 seconds, and you will see the message "Installed into stable-diffusion-webui\extensions\adetailer. Use Installed tab to restart".
-6. Go to "Installed" tab, click "Check for updates", and then click "Apply and restart UI". (The next time you can also use this method to update extensions.)
-7. Completely restart A1111 webui including your terminal. (If you do not know what is a "terminal", you can reboot your computer: turn your computer off and turn it on again.)
-
-You can now install it directly from the Extensions tab.
-
-![image](https://i.imgur.com/g6GdRBT.png)
-
-You **DON'T** need to download any model from huggingface.
 
 ## Options
 
