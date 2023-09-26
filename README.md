@@ -1,6 +1,7 @@
-# !After Detailer
+# !After Detailer 
+## This version of adetailer was merged in the main one.
 
-This fork of After Detailer is meant to work with [my own version of wildcards](https://github.com/Cryptik-Rick/sd-webui-wildcards-ad). Please follow the install instructions there. However, it will still work without issues if wildcards is not installed.
+It was originally used in pair with my version of wildcards, but you can now install the main one directly.
 
 !After Detailer is a extension for stable diffusion webui, similar to Detection Detailer, except it uses ultralytics instead of the mmdet.
 
